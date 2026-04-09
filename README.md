@@ -32,7 +32,7 @@ Cross-platform app with authentication and real-time features
 
 ### 🌐 Full-Stack Web App
 React + Node.js app with REST APIs and secure authentication  
-🔗 Repo: https://github.com/raosahil0/OneTechsupport  
+🔗 Repo: https://github.com/sahilyadav-01/OneTechsupport  
 
 ---
 
