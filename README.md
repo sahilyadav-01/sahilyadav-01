@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Sahil+Yadav+👋;Full-Stack+Developer;Mobile+App+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Sahil+Yadav+👋;Full+Stack+Developer;Flutter+Enthusiast;Always+Learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahil-yadav-54a984214?utm_source=share_via&utm_content=profile&utm_medium=member_ios]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sahil-yadav-54a984214?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/raosahil_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:raosahil8290@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://[YourWebsite.com]"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://sahilyadav.com"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 👨‍💻 About Me
 
-*   🚀 I’m currently building **[Insert Current Project / Startup]**
-*   💡 Exploring the depths of **[Insert Tech, e.g., Cross-Platform Architecture, AI]**
+*   🚀 I'm currently building **amazing applications with Flutter and React**
+*   💡 Exploring the depths of **Cross-Platform Architecture and Full Stack Development**
 *   🤝 Open to collaborating on **innovative open-source projects**
-*   📝 I occasionally write articles on **[Medium / Dev.to / Hashnode link]**
-*   ⚡ Fun fact: **[Insert a fun fact about you]**
+*   📝 I occasionally write articles on **Medium and Dev.to**
+*   ⚡ Fun fact: **I love building mobile apps that solve real-world problems!**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
