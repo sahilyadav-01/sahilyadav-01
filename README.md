@@ -1,68 +1,70 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Sahil+Yadav+👋;Full+Stack+Developer;Flutter+Developer;Builder+of+Scalable+Products" alt="Typing SVG" />
+  <h1>Sahil Yadav</h1>
+  <p><strong>Full-Stack Software Engineer | Mobile Developer | Product-Focused</strong></p>
+  <p>Building scalable, impactful products with modern technologies</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-yadav-54a984214)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/raosahil_)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sahilyadav-portfolio.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raosahil8290@gmail.com)
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sahil-yadav-54a984214"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/raosahil_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:raosahil8290@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://sahilyadav-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-</p>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## Professional Summary
 
-### 👨‍💻 About Me
+Full-stack engineer with expertise in building cross-platform mobile applications and scalable backend systems. Proven track record in product development, open-source contributions, and leading technical initiatives. Passionate about clean code, user-centric design, and emerging technologies.
 
-*   🚀 I’m currently building AI-powered and mobile-first products with a focus on elegant user experiences.
-*   💡 Exploring the depths of cross-platform architecture, product engineering, and modern app development.
-*   🤝 Open to collaborating on innovative open-source projects and impactful digital products.
-*   📝 I occasionally share ideas and learnings on my portfolio and blog.
-*   ⚡ Fun fact: I enjoy turning ideas into polished experiences that people actually want to use.
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## Core Competencies
 
-### 🛠️ Tech Stack & Tools
+### Backend & Full-Stack
+- **Languages:** Python, JavaScript, TypeScript, C++, Dart
+- **Frameworks:** Node.js, Express
+- **APIs:** RESTful API Design, Microservices
+- **Databases:** PostgreSQL, MongoDB, Supabase
+- **Backend Services:** Authentication, Storage, Realtime, Row-Level Security
 
-**Languages:**
-<p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</p>
+### Mobile Development
+- **Framework:** Flutter (Cross-platform iOS/Android)
+- **Expertise:** UI/UX Implementation, Performance Optimization, State Management
 
-**Mobile Development:**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-</p>
+### Frontend
+- **Framework:** React
+- **Modern Web:** TypeScript, Responsive Design
 
-**Frontend & Backend:**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+### DevOps & Infrastructure
+- **Cloud:** AWS (EC2, S3, Lambda, RDS)
+- **Containerization:** Docker
+- **CI/CD:** Git-based workflows
+- **Tools:** Linux, Bash, Git
 
-**DevOps & Tools:**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## Professional Highlights
 
-### 🏆 GitHub Analytics
+✨ **Cross-Platform Development** — Ship high-quality apps on iOS and Android using Flutter  
+🔧 **Backend Architecture** — Design and implement scalable systems  
+📈 **Performance** — Optimize applications for speed and efficiency  
+🤝 **Collaboration** — Work effectively in agile teams and open-source communities  
+🎯 **Product Focus** — Understand business requirements and translate to technical solutions  
+
+---
+
+## GitHub Stats & Activity
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilyadav-01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=sahilyadav-01&show_icons=true&theme=github_light&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sahilyadav-01&layout=compact&theme=github_light&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sahilyadav-01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sahilyadav-01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilyadav-01&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilyadav-01&theme=github-light&hide_border=true" alt="GitHub Streak" width="100%" />
+</div>
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing technology, collaborating on meaningful projects, and exploring new opportunities. Feel free to reach out!
