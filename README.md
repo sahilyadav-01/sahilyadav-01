@@ -103,12 +103,12 @@ Full-stack engineer with expertise in building high-performance, cross-platform 
 ## GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilyadav-01&show_icons=true&theme=github_dark&hide_border=true" height="192" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilyadav-01&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="192" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilyadav-01&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilyadav-01&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sahilyadav-01&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sahilyadav-01&theme=github-dark&hide_border=true" height="160" alt="GitHub Streak" />
 </div>
 
 ---
