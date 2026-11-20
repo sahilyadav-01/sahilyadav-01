@@ -6,7 +6,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-yadav-54a984214)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/raosahil_)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sahilyadav-portfolio.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raosahil8290@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sahil.ydv8290@gmail.com)
 </div>
 
 ---
@@ -115,4 +115,4 @@ Full-stack engineer with expertise in building high-performance, cross-platform 
 
 ## Let's Connect
 
-I'm always interested in discussing technology, collaborating on meaningful projects, and exploring new opportunities. Feel free to reach out!
+I'm always interested in discussing technology, collaborating on meaningful projects, and exploring new opportunities. Feel free to reach out at [sahil.ydv8290@gmail.com](mailto:sahil.ydv8290@gmail.com)!
