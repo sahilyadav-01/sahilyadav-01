@@ -27,9 +27,12 @@ Full-stack engineer with expertise in building high-performance, cross-platform 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -41,6 +44,8 @@ Full-stack engineer with expertise in building high-performance, cross-platform 
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
 </p>
 
 ---
@@ -56,9 +61,9 @@ Full-stack engineer with expertise in building high-performance, cross-platform 
 - **Integration:** REST APIs, WebSockets, Deep Linking, Payment Gateways
 
 ### Backend & Cloud Services (BaaS)
-- **Languages & Runtimes:** Node.js, Express, Python (FastAPI, Flask), TypeScript
+- **Languages & Frameworks:** Node.js, Express, Python (FastAPI, Flask), C++, C#, .NET, TypeScript
+- **APIs & Architecture:** RESTful APIs, Microservices, GraphQL, WebSockets
 - **BaaS & Cloud:** Firebase (Cloud Functions, Realtime Database, Firestore, Security Rules), Supabase (Auth, Realtime, Row-Level Security)
-- **APIs & Protocols:** RESTful API Design, GraphQL, WebSockets, Microservices
 - **Security & Auth:** OAuth 2.0, JWT, Firebase Auth, Role-Based Access Control (RBAC), Row-Level Security (RLS)
 
 ### Frontend Web Development
@@ -74,17 +79,17 @@ Full-stack engineer with expertise in building high-performance, cross-platform 
 - **Storage:** Firebase Cloud Storage, AWS S3, Supabase Storage
 
 ### DevOps, Infrastructure & Tools
+- **Version Control & Environments:** Git, GitHub, Linux, Bash, Windows, macOS
 - **Cloud & Hosting:** Firebase Hosting, AWS (EC2, S3, Lambda, RDS), Vercel
 - **Containers & CI/CD:** Docker, GitHub Actions, CI/CD pipelines
-- **Version Control & Environment:** Git, GitHub, Linux, Bash
-- **Developer Tools:** Postman, Android Studio, VS Code, Figma
+- **Developer Tools:** Postman, Android Studio, VS Code, Visual Studio, Figma
 
 ---
 
 ## Professional Highlights
 
 📱 **Mobile Engineering** — Ship production-grade iOS & Android applications using Flutter and Firebase/Supabase  
-⚡ **Backend & BaaS Architecture** — Build resilient microservices, REST APIs, and serverless backends with Firebase & Node.js  
+⚡ **Backend & BaaS Architecture** — Build resilient microservices, REST APIs, and scalable backends with Node.js, Express, Python, and .NET  
 🔐 **Realtime & Secure Systems** — Implement end-to-end authentication, push notifications (FCM), realtime databases, and Row-Level Security  
 📈 **Performance & Code Quality** — Deliver smooth 60/120 FPS mobile interfaces, optimized database queries, and clean architecture  
 🤝 **Product-Driven Collaboration** — Translate complex business requirements into elegant, reliable, and user-centric software  
