@@ -36,16 +36,18 @@ Full-stack engineer with expertise in building high-performance, cross-platform 
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
@@ -54,17 +56,18 @@ Full-stack engineer with expertise in building high-performance, cross-platform 
 
 ### Mobile Development (iOS & Android)
 - **Framework & Languages:** Flutter, Dart
-- **Firebase Ecosystem:** Authentication, Cloud Firestore, Cloud Messaging (FCM), Cloud Functions, Storage, Analytics & Crashlytics
-- **State Management:** BLoC / Cubit, Provider, Riverpod
-- **Architecture & Design:** Clean Architecture, MVVM, Repository Pattern, Responsive UI
-- **Local Storage & Offline:** Hive, SQLite / Drift, SharedPreferences
+- **Ecosystem & Cross-Platform:** Cross-platform iOS/Android, UI/UX Implementation, Responsive Layouts
+- **State Management:** Riverpod, BLoC / Cubit, Provider
+- **Firebase & Cloud SDKs:** Firebase SDK (Firestore, Realtime DB, Auth, Cloud Messaging / FCM, Cloud Functions, Storage, Analytics, Crashlytics)
+- **Architecture & Design:** Clean Architecture, MVVM, Repository Pattern
+- **Local Storage & Offline:** SQLite / Drift, Hive, SharedPreferences
 - **Integration:** REST APIs, WebSockets, Deep Linking, Payment Gateways
 
 ### Backend & Cloud Services (BaaS)
-- **Languages & Frameworks:** Node.js, Express, Python (FastAPI, Flask), C++, C#, .NET, TypeScript
-- **APIs & Architecture:** RESTful APIs, Microservices, GraphQL, WebSockets
-- **BaaS & Cloud:** Firebase (Cloud Functions, Realtime Database, Firestore, Security Rules), Supabase (Auth, Realtime, Row-Level Security)
-- **Security & Auth:** OAuth 2.0, JWT, Firebase Auth, Role-Based Access Control (RBAC), Row-Level Security (RLS)
+- **Languages & Frameworks:** Node.js, Express, Python (FastAPI, Flask), C++, C#, .NET, Visual Basic .NET, TypeScript
+- **Architecture & APIs:** RESTful APIs, Microservices, GraphQL, WebSockets
+- **BaaS & Cloud:** Firebase (Cloud Functions, Realtime DB, Firestore, Security Rules), Supabase (Auth, Realtime, Row-Level Security)
+- **Security & Auth:** Firebase Auth, OAuth 2.0, JWT, Role-Based Access Control (RBAC), Row-Level Security (RLS)
 
 ### Frontend Web Development
 - **Frameworks & Libraries:** React, Next.js
@@ -73,16 +76,17 @@ Full-stack engineer with expertise in building high-performance, cross-platform 
 - **State & Tooling:** Redux Toolkit, Context API, TanStack Query, Vite
 
 ### Databases & Cloud Storage
-- **NoSQL / Document:** Firebase Firestore, Firebase Realtime Database, MongoDB
-- **Relational (SQL):** PostgreSQL, MySQL, SQLite
+- **NoSQL & Realtime:** Firebase (Firestore, Realtime DB), MongoDB
+- **Relational (SQL):** PostgreSQL, SQLite, MySQL
 - **Caching & In-Memory:** Redis
-- **Storage:** Firebase Cloud Storage, AWS S3, Supabase Storage
+- **Storage & Security:** Firebase Cloud Storage, AWS S3, Supabase Storage, Row-Level Security (RLS)
 
-### DevOps, Infrastructure & Tools
-- **Version Control & Environments:** Git, GitHub, Linux, Bash, Windows, macOS
-- **Cloud & Hosting:** Firebase Hosting, AWS (EC2, S3, Lambda, RDS), Vercel
-- **Containers & CI/CD:** Docker, GitHub Actions, CI/CD pipelines
-- **Developer Tools:** Postman, Android Studio, VS Code, Visual Studio, Figma
+### DevOps, Infrastructure & Tooling
+- **Cloud & Hosting:** AWS (EC2, S3, Lambda, RDS), Firebase Hosting, Vercel
+- **Containers & CI/CD:** Docker, Git-based CI/CD workflows, GitHub Actions
+- **Operating Systems & Environments:** Linux, Windows, macOS
+- **Scripting & Shells:** Git, Bash, PowerShell, Windows Batch
+- **Packaging & Desktop Tools:** Inno Setup, Visual Studio, VS Code, Android Studio, Postman, Figma
 
 ---
 
